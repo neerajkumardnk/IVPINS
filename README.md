@@ -1,0 +1,9 @@
+# IVPINS
+init and final
+This project helps road commuters to notify vehicle owners 
+who have parked their vehicles irregularly without knowing their phone numbers, using android app.
+This also helps digitizing State Traffic Police Department.
+
+
+Technologies Used    -    Java, Androis SDK, Volley Library, Google Firebase ( Realtime Database, 
+Authentication and App Notification Service ), Google maps
